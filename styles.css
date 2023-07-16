@@ -1,1 +1,17 @@
 
+*{
+	box-sizing:border-box;
+}
+.main{
+	display:flex;
+}
+.part-1{
+	width:250vw;
+	margin-right:20px;
+}
+.basic{
+	display:flex;
+}
+.progress{
+	display: column !important;
+}
